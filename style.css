@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    justify-content: space-between
+}
+body{
+    background: #0f172a;
+    color:#fff
+}
+
+header {
+     background-color:#020617;
+    height: 120px;
+     color: white;
+
+}
+#h1{
+    text-align: left;
+    margin-left:100px;
+    padding-top: 2%;
+}
+
+header a:hover {
+    color: #38bdf8;
+}
+
+header a {
+    color: white;
+    font-size: 28px;
+    margin: 15px 30px
+}
+
+#nav {
+    text-align: Right;
+    padding-top: 0%;
+}
+.logo{
+    background-image: url("programer.jpeg");
+    background-size: cover;
+    border: 2px Solid black;
+    border-radius: 50%;
+    height:175px;
+    width: 175px;
+    margin-left: 650px;  
+    margin-bottom: 5px;  
+}
+#section1 {
+     background-color: rgb(201 20 20 / 0%);;
+    text-align: center;
+    color:white;
+    padding: 60px 60px;
+    margin-top: 40px;
+    height:250px;
+    width:1500px;
+ }
+
+
+span {
+    color: #38bdf8;
+}
+
+button {
+    margin-top: 1%;
+    border-radius: 10px;
+    background-color:#38bdf8;
+    height: 40px;
+    width: 5%;
+    font-size: 15px;
+}
+#section2{
+    text-align: center;
+    color:white;
+    background-color: #020617;
+    font-size: 25px;
+}
+.h{
+     display: inline-block;
+    background: #38bdf8;
+    color: black;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.sec3{
+     text-align: center;
+}
+
+.sec3 h1{
+        background-color: #020617;
+    color:white;
+    text-align: center;
+}
+.contact{
+      background-color: #020617;
+    color: white;
+}
+
+
+.sec3 label{
+    font-size: 30px;
+}
+#name{
+    margin:10px;
+}
+#pass{
+    margin:10px;
+}
+#email{
+    margin:10px;
+}
+.sec3 button{
+    
+}
+
+
+footer {
+    text-align: center;
+    background: #000
+    color: white;
+    margin-top: 39px;
+    font-size: 30px;
+   
+}
